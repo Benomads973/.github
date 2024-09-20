@@ -1,0 +1,2 @@
+# .github
+NoCode Automation
