@@ -1,7 +1,7 @@
 # Benomads Developer Documentation 👋
 
 ## Tailored Solution as a Service (TSAAS): Boiterplate business target
-boiterplate
+
 Welcome to the **Benomads** developer documentation! This guide is for developers and partners who wish to integrate, deploy, or scale applications using the Benomads platform. We cover three primary use cases: B2B users, B2C users, and partners adding boiterplate sites to our platform.
 
 ## Table of Contents
