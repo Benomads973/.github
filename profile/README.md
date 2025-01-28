@@ -1,14 +1,14 @@
 # Benomads Developer Documentation 👋
 
 ## Tailored Solution as a Service (TSAAS): Boiterplate business target
-
-Welcome to the **Benomads** developer documentation! This guide is for developers and partners who wish to integrate, deploy, or scale applications using the Benomads platform. We cover three primary use cases: B2B users, B2C users, and partners adding white-label sites to our platform.
+boiterplate
+Welcome to the **Benomads** developer documentation! This guide is for developers and partners who wish to integrate, deploy, or scale applications using the Benomads platform. We cover three primary use cases: B2B users, B2C users, and partners adding boiterplate sites to our platform.
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [B2B Features](#b2b-features)
 3. [B2C Features](#b2c-features)
-4. [Adding White-Label Sites](#adding-white-label-sites)
+4. [Adding Boiterplate Sites](#adding-boiterplate-sites)
 5. [API & Extensibility](#api--extensibility)
 6. [Monitoring & Maintenance](#monitoring--maintenance)
 7. [Connect with Us](#connect-with-us)
@@ -17,21 +17,21 @@ Welcome to the **Benomads** developer documentation! This guide is for developer
 
 ## Introduction
 
-**Benomads** enables you to create, customize, and deploy web and mobile applications effortlessly. Whether you're a business aiming to launch white-label solutions, a user wanting no-code deployment, or a partner looking to expand your reach by adding your sites, we’ve got you covered.
+**Benomads** enables you to create, customize, and deploy web and mobile applications effortlessly. Whether you're a business aiming to launch boiterplate solutions, a user wanting no-code deployment, or a partner looking to expand your reach by adding your sites, we’ve got you covered.
 
-- **B2B Users**: Generate and deploy unlimited white-label applications.
+- **B2B Users**: Generate and deploy unlimited boiterplate applications.
 - **B2C Users**: Deploy applications instantly from our library of templates.
-- **Partners**: Add new white-label applications to the Benomads platform.
+- **Partners**: Add new boiterplate applications to the Benomads platform.
 
 ---
 
 ## B2B Features
 
-As a B2B user, you have the ability to generate unlimited white-label instances. This allows you to deploy customizable applications for your clients while letting Benomads handle the infrastructure and technical complexities.
+As a B2B user, you have the ability to generate unlimited boiterplate instances. This allows you to deploy customizable applications for your clients while letting Benomads handle the infrastructure and technical complexities.
 
 ### Steps for B2B Deployment
 
-1. **Request an Instance**: Contact [Benomads](https://benomads.fr) to request the creation of a white-label instance.
+1. **Request an Instance**: Contact [Benomads](https://benomads.fr) to request the creation of a boiterplate instance.
 2. **API Integration**: Customize your instance using our APIs to suit your clients’ needs.
 3. **Branding & Scaling**: Use Benomads’ tools to apply custom branding and manage multiple deployments seamlessly.
 
@@ -53,9 +53,9 @@ B2C users can effortlessly deploy websites and apps using our no-code library of
 
 ---
 
-## Adding White-Label Sites
+## Adding Boiterplate Sites
 
-Partners can contribute to Benomads by adding their own white-label sites to our platform, making them available for B2C and B2B users.
+Partners can contribute to Benomads by adding their own boiterplate sites to our platform, making them available for B2C and B2B users.
 
 Contact US directly.
 
